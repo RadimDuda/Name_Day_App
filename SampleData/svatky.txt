@@ -1,0 +1,366 @@
+1. 1.	Mečislav, Mečislava
+2. 1.	Karina, Vasil, Ábel
+3. 1.	Jenifer, Radmila, Radomila, Radomil, Jenovéfa
+4. 1.	Dajana, Deana, Diana, Blahomila, Blahomíra
+5. 1.	Amáta, Dalimila, Dalimil, Dalimír, Dalimíra, Teofan, Dylan
+6. 1.	Baltazar, Kašpar, Melichar
+7. 1.	Atila, Vilma, Viléma, Vilemína
+8. 1.	Erhart, Čestmíra, Čestmír
+9. 1.	Valtr, Vladana, Vladan, Vlaďka, Vojslava
+10. 1.	Břetislava, Břetislav, Bratislav
+11. 1.	Bohdana, Malvína, Teodora
+12. 1.	Pravoslava, Pravoslav, Arkád, Gvendolína
+13. 1.	Edita, Gudrun, Leontýna
+14. 1.	Radovana, Radovan, Hilar, Hilarius
+15. 1.	Alice, Severín
+16. 1.	Ctirad, Ctislava, Čtislav, Česlav, Ctirada, Ranek, Ranko
+17. 1.	Drahoslav, Drahoš, Drahoň
+18. 1.	Priska, Vladislava, Vladislav, Priscila
+19. 1.	Doubravka, Sarah, Fabián
+20.	1.	Fabian, Ilona, Sebastian, Fabiána, Sebestian, Šebastián, Sebastián
+21. 1.	Bianka, Gejza, Géza, Albena, Běla
+22. 1.	Dorian, Slavomíra, Slavomír, Slávek, Chrudoš, Mnata, Mnislav
+23. 1.	Raimund, Ramon, Zdenek, Bertram, Zdeněk
+24. 1.	Amanda, Milena, Timotej, Tim, Timoteus
+25. 1.	Miloš, Miloň, Amand
+26. 1.	Aurora, Danica, Zoran, Zora, Žarko
+27. 1.	Ingeborg, Ingrid, Inka, Inna, Ingeborga, Přibyslava
+28. 1.	Manfred, Otylie, Otýlie, Manfréd
+29. 1.	Zdislava, Zdislav, Zinaida
+30. 1.	Ema, Jasněna, Robin
+31. 1.	Marieta, Marika
+1. 2.	Hynek, Jasmína
+2. 2.	Aida, Nela
+3. 2.	Blažej, Donald
+4. 2.	Jarmila, Gilberta, Gilbert
+5. 2.	Agaton, Dobromila, Dobromil
+6. 2.	Samanta, Vanda, Vlk, Vok
+7. 2.	Berenika, Veronika, Veronika
+8. 2.	Aranka, Milada, Mlada
+9.	2.	Apolena, Ronald
+10. 2.	Mojmíra, Mojmír, Sotira
+11. 2.	Božena, Dezider, Eufrozina
+12. 2.	Slavěna, Solveig, Zoroslav, Slávka, Glorie
+13. 2.	Jordan, Věnceslava, Věnceslav, Věnka
+14. 2.	Valentýna, Valentýn, Valentýna
+15. 2.	Jiřina, Faust, Faustina, Faustýna, Jorga, Jorika
+16. 2.	Danuta, Ljuba, Luba
+17. 2.	Miloslava, Fiona, Grácie
+18. 2.	Gizela
+19. 2.	Patrik
+20. 2.	Oldřich, Dorián
+21. 2.	Eleonora, Lena, Lenka
+22. 2.	Etela, Petr
+23. 2.	Svatobor, Svatopluk
+24. 2.	Matej, Matyas, Matěj, Matyáš
+25. 2.	Liliana, Taras, Valburga, Nevena
+26. 2.	Božetěch, Dora, Doris, Dorota
+27. 2.	Alexandr, Drahotín, Leander, Leandr, Torsten
+28. 2.	Kira, Lumír
+1. 3.	Alban, Albín, Alva, Bedřich, Bedřiška, Elvis, Dětřich
+2. 3.	Aněžka, Ines, Inesa, Inéz
+3. 3.	Kamil, Vladivoj
+4. 3.	Jadranka, Stela, Jadrana
+5. 3.	Kazimíra, Kazimír, Oliva, Kazi, Teofila, Theofil
+6. 3.	Fridolín, Mirek, Mirko, Miroslav, Miromil
+7. 3.	Tomas, Tomislav, Tom, Tomáš
+8. 3.	Gabriela, Mervin, Merlin, Zoltán
+9. 3.	Františka, Radúz, Rebeka
+10. 3.	Melisa, Melita, Viktorie, Ildika
+11. 3.	Anděla, Andělín, Angela, Angelika, Anděl
+12. 3.	Řehoř
+13. 3.	Rosana, Rosa, Roza, Rozina, Ružena, Rozana, Rozita, Róza, Růžena
+14. 3.	Matylda, Ruth, Maud, Rút
+15. 3.	Hilda, Ida, Longin
+16. 3.	Amos, Elena, Elen, Herbert, Heribert
+17. 3.	Vlastimila, Vlastimil
+18. 3.	Eduarda, Eduard, Edvarda
+19. 3.	Josefa, Josef, Jozefa, Jozef, Josefína, Jozefína, Sibyla
+20. 3.	Arna, Roxana, Svetlana, Světla, Světlana
+21. 3.	Radek, Radko, Radegast
+22. 3.	Lea, Leona, Leonie, Leontina, Lia, Loekádie
+23. 3.	Alfons, Axel, Ivona
+24. 3.	Gabriel, Zbyslav
+25. 3.	Marian, Mario, Marius, Marián
+26. 3.	Emauela, Emanuel, Manuela, Manuel
+27. 3.	Dita, Rupert, Malvína
+28. 3.	Soňa, Gedeon
+29. 3.	Slavomila, Slavomil, Taťana, Taťána
+30. 3.	Arne, Arnold, Arnoštka, Arnošt, Ernest, Ernst, Lutobor
+31. 3.	Arpád, Kvido, Quido
+1. 4.	Hugo, Veleslav, Velen
+2. 4.	Erika, Áron, Rosamudna, Veleslava, Velislav, Velislava, Věslava, Aron
+3. 4.	Richard, Richarda
+4. 4.	Isidor, Ivana, Isidora, Izidor, Platon
+5. 4.	Mira, Mirka, Miroslava, Miromila, Myrna
+6. 4.	Celestina, Celestýna, Vendula, Venuše, Celestin
+7. 4.	Armand, Armin, Herman, Hermina, Lotar, Mína, Hermína, Heřman
+8. 4.	Ema, Konstantina, Valter
+9. 4.	Dušan, Dušana, Dustin
+10. 4.	Darie, Darja
+11. 4.	Areta, Izabela, Ariel, Ariela, Ratmír
+12. 4.	Julius, Zenon, Julián
+13. 4.	Aleš, Aleška, Norma
+14. 4.	Justýn, Pravomila, Pravomil, Vincencie, Vincenc, Vincent, Pravdomil, Pravdomila
+15. 4.	Anastazie, Oktavián, Stáza, Anastázie
+16. 4.	Bernadeta, Irena, Irenej, Ireneus, Erina
+17. 4.	Ralf, Rolf, Rudolfa, Rudolfina, Rudolf, Randolf, Raul
+18. 4.	Valerie, Verner, Valerián, Valer, Valérie
+19. 4.	Rastislav, Rostislava, Rostislav, Timon
+20. 4.	Marcela, Celina, Odeta
+21. 4.	Alexandra, Saskia, Selma, Aneslm, Anselma
+22. 4.	Evženia, Leonid, Noema
+23. 4.	Gerard, Gerhard, Vojtěch, Vojtěška, Gerharda, Vojtěch, Garik
+24. 4.	Jiří, Fidel
+25. 4.	Ervína, Marek, Ervín
+26. 4.	Ota, Oto, Udo, Uve
+27. 4.	Aristid, Jarolím, Jaroslav
+28. 4.	Paris, Vlastislava, Vlastislav
+29. 4.	Roberta, Robert, Roger, Robinson, Roderik, Rodrigo
+30. 4.	Blahomil, Blahomír, Blahoslava, Blahoslav
+1. 5.	Pamela, Jeremiáš
+2. 5.	Atanas, Zikund, Atanáš
+3. 5.	Alexej, Horác, Alexa, Alexie
+4. 5.	Forian, Květoslav, Květoň, Silvan, Silvius, Florián
+5. 5.	Klaudie, Klaudius
+6. 5.	Radislav, Radoslav, Frída, Radivoj, Radslava
+7. 5.	Stanislav, Stojan, Stanimír
+8. 5.	Aurel, Zlatan, Zlatko, Zlatomír
+9. 5.	Ctibor
+10. 5.	Blažena, Erazim, Erazmus, Jason, Gordon
+11. 5.	Svatava, Svatoslava, Svatomíra
+12. 5.	Pankrác, Všebor, Vsevolod
+13. 5.	Servác, Ofélie
+14. 5.	Aglaja, Bonifác, Dina
+15. 5.	Harald, Raisa, Sofie, Žofie, Rajsa
+16. 5.	Přemek, Přemysl, Přemyslav
+17. 5.	Aneta, Dětmar, Paskal
+18. 5.	Nataša, Timea
+19. 5.	Alvin, Gerda, Ivo, Celestýn
+20. 5.	Zbyšek, Hvězdoslava
+21. 5.	Mona, Monika, Hostimil, Hostislav, Konstantýn
+22. 5.	Emil, Rita, Emilián
+23. 5.	Vladimir, Vladimíra, Želmíra, Želimir, Žeilimíra, Vladimír
+24. 5.	Jana, Vanesa
+25. 5.	Viola, Violeta, Urban
+26. 5.	Filip, Filipa, Filipína
+27. 5.	Vadim, Valderar, Waldemar, Svatoboj, Vojslav
+28. 5.	Viliam, Vilibald, Viém
+29. 5.	Maxim, Maxmilian, Max, Maxima, Maximilián, Maxmilián
+30. 5.	Ferdinand, Ferdinanda, Elmar
+31. 5.	Kamila, Petronila, Nila
+1. 6.	Horensie, Hortenzie, Laura, Laurencie, Loreta, Lorna, Lora
+2. 6.	Jarmil, Jaromil
+3. 6.	Kevin, Lešek, Tamara, Palmira, Palmiro
+4. 6.	Dalibor, Fatima, Dalibora, Tara
+5. 6.	Dobroslava, Dobroslav, Dobromír, Dobruše
+6. 6.	Norbert, Norman, Norberta
+7. 6.	Ariadna, Iveta, Slavoj, Slavibor
+8. 6.	Medard, Pěva
+9. 6.	Anabela, Stanislava
+10. 6.	Gita, Margita, Gréta
+11. 6.	Barnabáš, Brunhilda, Bruno, Florentina, Florentin, Florentýna, Mabel
+12. 6.	Antonie, Táňa
+13. 6.	Antal, Antonín, Gendaij
+14. 6.	Herta, Roland, Basil, Elizej, Rolanda
+15. 6.	Senta, Vit, Vítek, Izolda, Vít, Víta
+16. 6.	Zbynhěv, Zbyněk, Zbyňka
+17. 6.	Ada, Adina, Adolfa, Adolfian, Adolf, Alida, Adin, Adolfína
+18. 6.	Milana, Milan, Milík, Milovan, Sedrik, Milíč
+19. 6.	Leonardo, Leonhard, Leo, Leo, Leoš, Lev, Ruslav, Leontýn
+20. 6.	Květa, Květuše, Flora, Květa
+21. 6.	Aloisie, Alois, Leila, Lejla
+22. 6.	Arabela, Pavla, Zaira
+23. 6.	Sidonie, Zdena, Zdenka, Zeno, Zdeňka
+24. 6.	Dejan, Jan, Jonatan
+25. 6.	Ivan, Salome, Fabrizio
+26. 6.	Adriana, Adrian
+27. 6.	Ladislava, Ladislav
+28. 6.	Lubomíra, Lubomil, Lubomír, Serena, Beatus
+29. 6.	Pavel, Petr, Salomea, Salomena, Esmeralda
+30. 6.	Vlastimír, Šárka, Teobald, Theobald, Vlastimíra
+1. 7.	Halina, Jaroslava, Vesna
+2. 7.	Alma, Patricie
+3. 7.	Anatol, Radomíra, Radomír, Anatolie, Radimíra
+4. 7.	Prokop, Ulrich
+5. 7.	Cyrila, Cyril, Metoděj, Metod
+6. 7.	Spytihněv
+7. 7.	Hostivít
+8. 7.	Edgar, Kilián, Nora
+9. 7.	Drahoslava, Drahuše
+10. 7.	Amalie, Libuše, Ludoslava, Amálie, Amélie, Ludoslav
+11. 7.	Helga, Olga, Pius
+12. 7.	Borek, Borislav, Bořek
+13. 7.	Margareta, Margit, Marketa, Perla, Markéta, Megan
+14. 7.	Karolian, Larisa, Karolína
+15. 7.	Egon, Jindřich
+16. 7.	Carmen, Luboš, Rut, Cedrik
+17. 7.	Arleta, Iris, Martina
+18. 7.	Drahomila, Drahomíra, Drahomír, Milota, Drahomil, Drahotína, Milutín
+19. 7.	Čeněk, Čeňka
+20. 7.	Elias, Ilja, Iljana, Eliana, Eliáš
+21. 7.	Vítězslav, Vítoslav, Vítězslava, Vítězslav
+22. 7.	Magdalena, Magda, Marlena, Magdaléna, Rozvita
+23. 7.	Libor, Liboslav, Luboslav, Libora, Liboslava
+24. 7.	Gleb, Kristina, Kristyna, Tina, Křišťan, Kristýna
+25. 7.	Jakub, Timur, Jakuba, Jakubka, Žakelina
+26. 7.	Anika, Anita, Anna-Marie, Nancy, Anna, Naneta
+27. 7.	Aurelio, Aurelius, Berthold, Bertold, Gorazd, Věroslav
+28. 7.	Alina, Inocenc, Viktorie
+29. 7.	Beatrice, Marta, Olaf, Robina, Serafína
+30. 7.	Bořivoj, Vojen
+31. 7.	Ignác, Ignát
+1. 8.	Oskar, Ludomíra, Medea, Ludomír
+2. 8.	Gustava, Gustav, Elfríd
+3. 8.	Miluše, Nikodém, Jerguš
+4. 8.	Dominika, Dominik, Rainer, Neda
+5. 8.	Kristian, Osvald, Kristán, Milivoj
+6.  8.	Oldřiška, Ulrika, Něhoslav
+7. 8.	Kajetán, Lada, Donáta, Iboja
+8. 8.	Soběslav, Soběslava, Virginie
+9. 8.	Roman, Romeo, Ratibor, Ratislav
+10. 8.	Vavřinec, Lars, Laurenc, Lorenc
+11. 8.	Zuzana, Filoména
+12. 8.	Jasna, Klara, Klára, Jasoň
+13. 8.	Alena, Belinda, Sven
+14. 8.	Alan, Alen, Eusebius, Smil
+15. 8.	Hana, Mirela
+16. 8.	Abrahám, Jáchym, Roch, Abraham
+17. 8.	Petra, Petronela, Záviš, Hyacinta, Petula
+18. 8.	Ela, Ella, Helena, Jelena, Ena
+19. 8.	Ludvika, Ludvik, Luisa, Lujza, Ludvík, Ludvíka
+20. 8.	Bernarda, Bernardeta, Bernardina, Bernard, Dino
+21. 8.	Johana, Noemi
+22. 8.	Bohuslav, Božislav, Bohun, Tichomír
+23. 8.	Sandra, Tekla, Polyxena
+24. 8.	Bartolomej, Natanael, Bartoloměj
+25. 8.	Radim, Elvíra, Radima
+26. 8.	Ludiše, Luděk, Luďka
+27. 8.	Otakara, Otakar, César
+28. 8.	Augusta, Augustina, Augustin, August, Augustýn, Augustýna, Pelagie
+29. 8.	Evelina, Miron, Myron, Evelína
+30. 8.	Kim, Vladěna, Kimberley
+31. 8.	Bela, Pavlina, Ramona, Pavlína, Aris
+1. 9.	Jiljí, Linda, Samuel, Egona, Rosalinda, Rozalinda, Sámo, Samuela, Sixtur
+2. 9.	Adela, Adéla, Adelína
+3. 9.	Branimíř, Branislav, Bronislava, Bronislav, Branislava
+4. 9.	Jindra, Jindřiška, Rozalie, Muriel, Rozálie
+5. 9.	Bojan, Borislav, Bojana
+6. 9.	Boleslava, Boleslav, Grant, Magnus
+7. 9.	Gina, Regina, Rea, Regína
+8. 9.	Mariana, Mariola, Marion, Mirjam
+9. 9.	Daniela, Gordana, Neklan, Omar
+10. 9.	Irma, Irmgarda, Krasomila, Krasava
+11. 9.	Denisa, Denis, Dionýz, Diviš, Diviška, Bystrik
+12. 9.	Maja, Marita, Máša, Riana, Ria, Tobias, Manon, Marie, Marilyn, Marisa, Pilar
+13. 9.	Lubor, Melinda
+14. 9.	Radka, Radoslava
+15. 9.	Dolores, Jolana, Jolanta
+16. 9.	Kornelie, Kornel, Lidmila, Ludmila, Kornelius, Kornélie, Lolita
+17. 9.	Hildegarda, Lambert, Nadežda, Naďa, Naděžda, Paloma
+18. 9.	Ariana, Kryštof
+19. 9.	Konstantin, Zita, Konstance, Konstancie
+20. 9.	Helmut, Oleg, Eustach
+21. 9.	Debora, Matouš, Ruben
+22. 9.	Darina, Garika, Moris, Mořic
+23. 9.	Berta, Lina
+24. 9.	Jaromíra, Jaromír, Mercedes, Griselda, Terenc
+25. 9.	Aurelie, Zlatan, Zlatuše, Aura, Zlatomíra
+26. 9.	Andrea, Andriana, Justina
+27. 9.	Jonas, Kosma, Kosmas, Damián, Jonáš
+28. 9.	Brian, Václava, Václav
+29. 9.	Michael, Michal, Rafael, Rafaela
+30. 9.	Jeroným, Rachel, Jarolíma, Una, Ráchel
+1. 10.	Igor, Ivar, Ivor
+2. 10.	Oliver, Olivie, Olympie
+3. 10.	Amadeus, Bohumil, Bohuš
+4. 10.	Edvin, Evald, František
+5. 10.	Eliška, Elza, Dalie
+6. 10.	Hanuš, Hanuše
+7. 10.	Abdon, Justin, Justyna, Sergej, Justýna
+8. 10.	Věra, Věroslava, Vera, Taisa
+9. 10.	Sara, Stefan, Gunter, Sára, Štefan, Zara
+10. 10.	Bivoj, Marina, Marin, Záboj
+11. 10.	Andreas, Andrej, André
+12. 10.	Marcela, Edvín, Serafín
+13. 10.	Gerald, Koloman, Renata, Geralda, Geraldina, Renáta
+14. 10.	Agata, Háta, Agáta, Krasoslav
+15. 10.	Tereza, Terezie, Aurélie
+16. 10.	Galina, Havel
+17. 10.	Heda, Hedvika, Despian
+18. 10.	Lukas, Lukáš, Donovan
+19. 10.	Joel, Michaela, Michala
+20. 10.	Eunika, Vendelín, Vendelína, Kleopatra
+21. 10.	Birgit, Brigita, Voršila, Berit, Birgita, Bret, Brit, Brita, Uršula
+22. 10.	Sabina, Sabrina, Kora, Korian, Kordula
+23. 10.	Fedor, Tea, Teodor, Thea, Theodora, Fedora, Teo
+24. 10.	Narcisa, Narcis, Nina
+25. 10.	Beata, Daria, Vojmír, Živan, Zosim, Živana, Beáta, Kryšpín
+26. 10.	Erich, Erik
+27. 10.	Lota, Zoe, Zoja, Šarlota, Živa
+28. 10.	Juda, Alfréda, Alfréd
+29. 10.	Silvie, Sylva, Sylvie, Silván
+30. 10.	Arsen, Demeter, Dimitrij, Tadeáš, Arzen, Hvězdoslav
+31. 10.	Štěpánka
+1. 11.	Felix, Felicie, Felície
+2. 11.	Jessica, Achiles, Tobiáš
+3. 11.	Hubert, Teofil
+4. 11.	Karel, Karla, Skarlet, Skarleta
+5. 11.	Emerich, Imrich, Miriam, Vědunka, Zachar, Zachariáš
+6. 11.	Leonard, Liběna
+7. 11.	Engelbert, Saskies
+8. 11.	Bohumír, Bohumíra, Božidara, Bohumír
+9. 11.	Bohdana, Božidar, Darek
+10. 11.	Evžen, Orest, Lionel, Tiber, Noe
+11. 11.	Martin, Davor
+12. 11.	Astrida, Astrid, Benedikt, Beno, Benedikta, Vitold
+13. 11.	Brenda, Tibor
+14. 11.	Mladen, Sáva
+15. 11.	Leopolda, Leopoldina, Leopold
+16. 11.	Otmar, Otomar, Daisy
+17. 11.	Edeltruda, Gertruda, Mahulena
+18. 11.	Odon, Romana
+258 romana
+19. 11.	Alžběta, Běta, Elsa, Ilsa, Ilza, Alžbeta
+20. 11.	Nikola, Nikol, Koleta, Oktavie
+21. 11.	Aldabert, Alberta, Albertina, Albert, Albrecht, Elvira, Adalberta, Albertýna, Aldo
+22. 11.	Cecilie, Cecil, Cindy, Celie, Homér, Cecílie
+23. 11.	Klementina, Klement, Alana, Lukrécie
+24. 11.	Emilie, Emma, Lothar, Emílie
+25. 11.	Karin, Katerina, Katrin, Katrina, Rina, Kateřina
+26. 11.	Aram, Artur, Artuš, Jonathan, Konrad, Kurt, Konrád
+27. 11.	Oxana, Xenie, Virgil
+28. 11.	Rene, Renát, René, Tristan
+29. 11.	Zina, Zajda, Zinajda
+30. 11.	Ondrej, Ondřejka, Ondřej
+1. 12.	Edmund, Iva, Edmond
+2. 12.	Bibiana, Blanka, Viviana, Vivien
+3. 12.	Svatomír, Svatoslava, Xaver
+4. 12.	Babeta, Barbara, Barbora
+5. 12.	Abigal, Jitka, Liana
+6. 12.	Mikuláš, Nikita, Nikolas, Nikodéma
+7. 12.	Ambrož, Benjamin, Benjamín
+8. 12.	Kvetoslava, Květomila, Květoslava
+9. 12.	Dalila, Vratislava, Vratislav
+10. 12.	Juliana, Julie, Juliána
+11. 12.	Dana, Danuše
+12. 12.	Simona, Šimona
+13. 12.	Lucie, Lucián, Elektra, Lucius, Luciána
+14. 12.	Livie, Lydie, Liv, Lýdie
+15. 12.	Radana, Radan, Zderad, Zdirad
+16. 12.	Adelaida, Albina, Albín, Albína
+17. 12.	Dan, Daniel, Lazar, Chantal
+18. 12.	Milorad, Miloslav, Graciána, Gracie
+19. 12.	Darius, Ester, Mstislav
+20. 12.	Dagmar, Dag, Dáša
+21. 12.	Natalie, Natálie, Rodan
+22. 12.	Simeon, Simon, Šimon
+23. 12.	Nika, Niké, Vlasta
+24. 12.	Adam, Eva, Evan
+25. 12.	—
+26. 12.	Stepan, Štěpán
+27. 12.	Jeanette, Žaneta, Melánie
+28. 12.	Bohumila, Donika
+29. 12.	Judita, Juta, Natan, Nathan, Nathanael
+30. 12.	David, Davida, Donát
+31. 12.	Horst, Silvestra, Silvestr, Forest
