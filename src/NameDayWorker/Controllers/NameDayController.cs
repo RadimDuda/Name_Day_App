@@ -95,7 +95,7 @@ namespace NameDayWorker.Controllers
 
             var nameDay = NameDayMaker.CreateNameDayFromDto(nameDayDto, _dbContext);
             
-            return Created("Nameday was created", nameDayDto);
+            return Created("", nameDayDto);
         }
 
         /// <summary>
