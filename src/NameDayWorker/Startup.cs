@@ -26,18 +26,25 @@ namespace playground_first2
         {
             Configuration = configuration;
         }
+            
+        public void ConfigureServices(IServiceCollection services) {
 
-        public void ConfigureServices(IServiceCollection services)
-        {
+            var connectionString = Configuration.GetConnectionString("NameDayDbConnection");
+
             services.AddDbContext<NameDayDbContext>(options =>
             {
-                options.UseSqlite(Configuration.GetConnectionString("NameDayDb"));
+                if (Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT") == "Production") {
+                    connectionString = Configuration.GetConnectionString("NameDayDbConnectionPrsoduction");
+                    options.UseSqlServer(connectionString);
+                }
+                else {
+                    options.UseSqlite(connectionString);
+                }
             });
 
             services.AddControllers();
 
-            services.AddSwaggerGen(c =>
-            {
+            services.AddSwaggerGen(c => {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "API Documentation", Version = "v1" });
                 c.EnableAnnotations();
 

@@ -2,6 +2,7 @@
 using Microsoft.Data.Sqlite;
 using NameDayWorker.DbEntities;
 using Microsoft.Extensions.Configuration;
+using System;
 
 namespace NameDayWorker.DbFunctions
 {
@@ -11,20 +12,24 @@ namespace NameDayWorker.DbFunctions
         public DbSet<Name> Names { get; set; }
 
         private readonly IConfiguration _configuration;
-
         public NameDayDbContext(IConfiguration configuration)
         {
             _configuration = configuration;
         }
-
         public NameDayDbContext()
         {
         }
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
+            var environment = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            var connectionString = _configuration.GetConnectionString("NameDayDbConnection");
-            optionsBuilder.UseSqlite(connectionString);
+            var connectionString = _configuration.GetConnectionString(environment == "Production" ? "NameDayDbConnectionProduction" : "NameDayDbConnection");
+
+            if (environment == "Production") {
+                optionsBuilder.UseSqlServer(connectionString);
+            }
+            else {
+                optionsBuilder.UseSqlite(connectionString);
+            }
         }
     }
 }
