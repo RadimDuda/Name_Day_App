@@ -16,30 +16,17 @@ using Microsoft.EntityFrameworkCore;
 using System.IO;
 using System.Reflection;
 
-namespace playground_first2
-{
-    public class Startup
-    {
+namespace playground_first2 {
+    public class Startup {
         private IConfiguration Configuration { get; }
 
-        public Startup(IConfiguration configuration)
-        {
+        public Startup(IConfiguration configuration) {
             Configuration = configuration;
         }
-            
+
         public void ConfigureServices(IServiceCollection services) {
 
-            var connectionString = Configuration.GetConnectionString("NameDayDbConnection");
-
-            services.AddDbContext<NameDayDbContext>(options =>
-            {
-                if (Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT") == "Production") {
-                    connectionString = Configuration.GetConnectionString("NameDayDbConnectionPrsoduction");
-                    options.UseSqlServer(connectionString);
-                }
-                else {
-                    options.UseSqlite(connectionString);
-                }
+            services.AddDbContext<NameDayDbContext>(options => {options.UseSqlServer(Configuration.GetConnectionString("NameDayDbConnection"));
             });
 
             services.AddControllers();
@@ -54,23 +41,19 @@ namespace playground_first2
             });
         }
 
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
-        {
-            if (env.IsDevelopment())
-            {
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env) {
+            if (env.IsDevelopment()) {
                 app.UseDeveloperExceptionPage();
             }
 
             app.UseRouting();
 
             app.UseSwagger();
-            app.UseSwaggerUI(c =>
-            {
+            app.UseSwaggerUI(c => {
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "API Documentation V1");
             });
 
-            app.UseEndpoints(endpoints =>
-            {
+            app.UseEndpoints(endpoints => {
                 endpoints.MapControllers();
             });
         }

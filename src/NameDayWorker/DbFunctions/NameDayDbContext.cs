@@ -20,16 +20,8 @@ namespace NameDayWorker.DbFunctions
         {
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
-            var environment = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");
-
-            var connectionString = _configuration.GetConnectionString(environment == "Production" ? "NameDayDbConnectionProduction" : "NameDayDbConnection");
-
-            if (environment == "Production") {
-                optionsBuilder.UseSqlServer(connectionString);
-            }
-            else {
-                optionsBuilder.UseSqlite(connectionString);
-            }
+            var connectionString = _configuration.GetConnectionString("NameDayDbConnection");
+            optionsBuilder.UseSqlServer(connectionString);
         }
     }
 }
