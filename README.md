@@ -1,24 +1,5 @@
-# Úkol 1
-V konzolové aplikaci "NameDayWorker" zpracujte soubor "SampleData/svatky.txt".
-Tento soubor byl dodán třetí stranou a obsahuje strukturovaná data.
+Nameday App
 
-Očekávaným výsledkem je výpis všech svátku s jejich dnem týdne a datumem pro rok zadaný při spuštění aplikace na obrazovku ve tvaru:
+This application offers various APIs that allow working with a nameday database. The functionalities include uploading a list of namedays (dates and names) from a .txt file into the database, displaying all the namedays, selecting namedays by name or a part of the name (wildcard "\*" for searching is available), selecting names by a given date, and adding a new nameday into the database.
 
-```
-NameDayWorker.exe
-
-Zadejte rok:
-2022 [ENTER]
-
-Výpis pro rok 2022
--------------------------------------------------
-sobota 1.1.2022      Mečislav - Mečislava
-neděle 2.1.2022      Karina - Vasil - Ábel
-...
-...
-čtvrtek 17.3.2022    Vlastimila - Vlastimil
-...
-...
-úterý 31.12.2022     Horst - Silvestra - Silvestr - Forest
-```
-
+For the proper functionality of all APIs, it is necessary to upload the namedays into the database from the file "svatky.txt". You can find the file at this link: https://github.com/RadimDuda/Name_Day_App/tree/main/SampleData.
