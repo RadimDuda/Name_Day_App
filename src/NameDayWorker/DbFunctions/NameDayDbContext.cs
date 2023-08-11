@@ -21,7 +21,7 @@ namespace NameDayWorker.DbFunctions
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
             var connectionString = _configuration.GetConnectionString("NameDayDbConnection");
-            optionsBuilder.UseSqlServer(connectionString);
+            optionsBuilder.UseNpgsql(connectionString);
         }
     }
 }
