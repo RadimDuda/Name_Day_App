@@ -115,7 +115,7 @@ namespace NameDayWorker.Controllers {
                 return NotFound("At 29.2. is no nameday");
             }
 
-            var names = finder.GetNamesBySpecificDate();
+            var names = finder.GetNamesBySpecificDate(nameDay);
             return Ok(names);
         }
     }

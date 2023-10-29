@@ -6,36 +6,31 @@ using System.Text.RegularExpressions;
 using Microsoft.EntityFrameworkCore;
 using NameDayWorker.DbEntities;
 
-namespace NameDayWorker.DbFunctions
-{
-    class ByDateFinder
-    {
+namespace NameDayWorker.DbFunctions {
+    class ByDateFinder {
         private DateTime _searchDate;
-        private bool _isInvalidDate;
-        private bool _isInvalidFormattedDate;
-        private bool _isNoNameDay;
+
+        public bool IsInvalidDate { get; set; }
+        public bool IsInvalidFormattedDate { get; set; }
+        public bool IsNoNameDay { get; set; }
+
         private readonly NameDayDbContext _dbContext;
 
-        public ByDateFinder(NameDayDbContext dbContext)
-        {
+        public ByDateFinder(NameDayDbContext dbContext) {
             _dbContext = dbContext;
         }
 
-        public NameDay FindByDate(string date)
-        {
+        public NameDay FindByDate(string date) {
             const string pattern = @"^\d+\.\s*\d+\.$";
 
-            if (Regex.IsMatch(date, pattern))
-            {
+            if (Regex.IsMatch(date, pattern)) {
                 var formattedInputDate = Regex.Replace(date, @"\s+", "");
 
                 const int leapYearExample = 2020;
 
-                if (DateTime.TryParseExact(formattedInputDate + leapYearExample, "d.M.yyyy", null, DateTimeStyles.None, out DateTime searchDate))
-                {
-                    if (searchDate.Month == 2 && searchDate.Day == 29)
-                    {
-                        _isNoNameDay = true;
+                if (DateTime.TryParseExact(formattedInputDate + leapYearExample, "d.M.yyyy", null, DateTimeStyles.None, out DateTime searchDate)) {
+                    if (searchDate.Month == 2 && searchDate.Day == 29) {
+                        IsNoNameDay = true;
                         return null;
                     }
 
@@ -47,40 +42,23 @@ namespace NameDayWorker.DbFunctions
 
                     return matchingNameDay;
                 }
-                else
-                {
-                    _isInvalidFormattedDate = true;
+                else {
+                    IsInvalidFormattedDate = true;
                 }
             }
-            else
-            {
-                _isInvalidDate = true;
+            else {
+                IsInvalidDate = true;
             }
 
             return null;
         }
 
-        public bool IsInvalidDate => _isInvalidDate;
-        public bool IsInvalidFormattedDate => _isInvalidFormattedDate;
-        public bool IsNoNameDay => _isNoNameDay;
-
-        public List<string> GetNamesBySpecificDate(NameDay nameDay)
-        {
-            if (nameDay != null)
-            {
+        public List<string> GetNamesBySpecificDate(NameDay nameDay) {
+            if (nameDay != null) {
                 return nameDay.Names.Select(n => n.Value).ToList();
             }
 
             return new List<string>();
-        }
-
-        public List<string> GetNamesBySpecificDate()
-        {
-            var matchingNameDay = _dbContext.NameDays
-                .Include(i => i.Names)
-                .FirstOrDefault(nameDay => nameDay.Date.Date == _searchDate.Date);
-
-            return GetNamesBySpecificDate(matchingNameDay);
         }
     }
 }
