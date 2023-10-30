@@ -11,22 +11,12 @@ namespace NameDayWorker.Controllers
     {
         public static NameDay CreateNameDayFromDto(NameDayDTO nameDayDto, NameDayDbContext dbContext)
         {
-            var options = new JsonSerializerOptions
-            {
-                PropertyNamingPolicy = JsonNamingPolicy.CamelCase,
-                WriteIndented = true,
-                ReferenceHandler = ReferenceHandler.Preserve
-            };
-
-            var json = JsonSerializer.Serialize(nameDayDto, options);
-            var deserializedDto = JsonSerializer.Deserialize<NameDayDTO>(json, options);
-
-            var date = deserializedDto.Date.Date;
+            var date = nameDayDto.Date.Date;
 
             var nameDay = new NameDay
             {
                 Date = date,
-                Names = deserializedDto.Names.Select(n => new Name { Value = n.Value }).ToList()
+                Names = nameDayDto.Names.Select(n => new Name { Value = n.Value }).ToList()
             };
 
             dbContext.NameDays.Add(nameDay);
